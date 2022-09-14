@@ -31,13 +31,13 @@ A web scrapper api that returns climate change news clippings from vaiours news 
     Sample:
        [ 
         {
-            "title": " Clergy find second calling as part of law-breaking climate                            change protests ",
-            "url": "https://www.telegraph.co.uk/news/2022/09/03/priests-among-                           climate-change-protesters-breaking-law/",
+            "title": " Clergy find second calling as part of law-breaking climate change protests ",
+            "url": "https://www.telegraph.co.uk/news/2022/09/03/priests-among-climate-change-protesters-breaking-law/",
             "source": "telegraph"
         },
         {
-            "title": "The crown and climateBritain has been one of the main                                contributors to global warming. We look at the new king’s                            environmental credentials.",
-            "url": "https://www.nytimes.com/2022/09/13/climate/king-charles-                             climate.html",
+            "title": "The crown and climate Britain has been one of the main contributors to global warming. We look at the new king’s environmental credentials.",
+            "url": "https://www.nytimes.com/2022/09/13/climate/king-charles-climate.html",
             "source": "nytimes"
        }
       ]
