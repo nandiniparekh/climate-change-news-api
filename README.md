@@ -1,2 +1,2 @@
 # climate-change-news-api
-A news api that scans various news websites to bring you the latest news on climate change.
+A web scrapper api that returns climate change news clippings from vaiours news wesbites.
